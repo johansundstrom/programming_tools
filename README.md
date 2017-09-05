@@ -22,15 +22,15 @@ Jämförelse och test av programmeringsverktyg
 
 ## Visual Code
 ### Intallera plugins
-9. Ikonen Extentions > Emmet
+10. Ikonen Extentions > Emmet
 9. Ikonen Extentions > Live Server
 ### Ändra tema
-10. File > Preference > Color Scheme > Dracula
+11. File > Preference > Color Scheme > Dracula
 
 
 ## Atom
 ### Intallera plugins
-9. File > Settings > Install > Emmet (Emmet)
+12. File > Settings > Install > Emmet (Emmet)
 9. File > Settings > Install > dev-live-reload (inbyggd webbserver)
 ### Ändra tema
-10. File > Settings > Theme > One Dark
+13. File > Settings > Theme > One Dark
