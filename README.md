@@ -21,9 +21,9 @@ Jämförelse och test av programmeringsverktyg
 4. Samtliga har snabbmeny via CTRL-Shift-P
 5. Samtliga kan utökas med teman och plugins
 ## Nedladdning
-6. ```https://www.sublimetext.com/3```
+6. <a href="https://www.sublimetext.com/3">https://www.sublimetext.com/3</a>
 7. <a href="https://code.visualstudio.com">https://code.visualstudio.com</a>
-8. ```https://atom.io/```
+8. <a href="https://atom.io/">https://atom.io</a>
 ## Sublime Text 3
 ### Intallera plugins
 9. Preferences > Packet control > Install package > Emmet
