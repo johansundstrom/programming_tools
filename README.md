@@ -22,7 +22,7 @@ Jämförelse och test av programmeringsverktyg
 5. Samtliga kan utökas med teman och plugins
 ## Nedladdning
 6. ```https://www.sublimetext.com/3```
-7. ```https://code.visualstudio.com/```
+7. ```<a href="https://code.visualstudio.com">https://code.visualstudio.com</a>```
 8. ```https://atom.io/```
 ## Sublime Text 3
 ### Intallera plugins
