@@ -14,34 +14,34 @@ Jämförelse och test av programmeringsverktyg
 ### Atom
 
 ## Likheter
-1. Atom och Visual Code är skrivna i JavaScript, Sublime Text i Python
-2. Samtliga är _cross-platform_
-3. Samtliga betraktas som _light weight_
-3. Atom och Visual Code är gratis, utom Sublime Text som är proprietär)
-4. Samtliga har snabbmeny via CTRL-Shift-P
-5. Samtliga kan utökas med teman och plugins
+* Atom och Visual Code är skrivna i JavaScript, Sublime Text i Python
+* Samtliga är _cross-platform_
+* Samtliga betraktas som _light weight_
+* Atom och Visual Code är gratis, utom Sublime Text som är proprietär)
+* Samtliga har snabbmeny via CTRL-Shift-P
+* Samtliga kan utökas med teman och plugins
 ## Nedladdning
 * <a href="https://www.sublimetext.com/3">https://www.sublimetext.com/3</a>
 * <a href="https://code.visualstudio.com">https://code.visualstudio.com</a>
 * <a href="https://atom.io/">https://atom.io</a>
 ## Sublime Text 3
 ### Intallera plugins
-9. Preferences > Packet control > Install package > Emmet
+* Preferences > Packet control > Install package > Emmet
 ### Ändra tema
-10. Preference > Color Scheme > Cobalt
+* Preference > Color Scheme > Cobalt
 
 
 ## Visual Code
 ### Intallera plugins
-10. Ikonen Extentions > Emmet
-9. Ikonen Extentions > Live Server
+* Ikonen Extentions > Emmet
+* Ikonen Extentions > Live Server
 ### Ändra tema
-11. File > Preference > Color Scheme > Dracula
+* File > Preference > Color Scheme > Dracula
 
 
 ## Atom
 ### Intallera plugins
-12. File > Settings > Install > Emmet (Emmet)
-9. File > Settings > Install > dev-live-reload (inbyggd webbserver)
+* File > Settings > Install > Emmet (Emmet)
+* File > Settings > Install > dev-live-reload (inbyggd webbserver)
 ### Ändra tema
-13. File > Settings > Theme > One Dark
+* File > Settings > Theme > One Dark
