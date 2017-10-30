@@ -13,6 +13,9 @@ Jämförelse och test av programmeringsverktyg
 
 ### Atom
 
+### Brackets
+
+
 ## Likheter
 * Atom och Visual Code är skrivna i JavaScript, Sublime Text i Python
 * Samtliga är _cross-platform_
@@ -25,6 +28,7 @@ Jämförelse och test av programmeringsverktyg
 * <a href="https://www.sublimetext.com/3">https://www.sublimetext.com/3</a>
 * <a href="https://code.visualstudio.com">https://code.visualstudio.com</a>
 * <a href="https://atom.io/">https://atom.io</a>
+* <a href="http://brackets.io>http://brackets.io</a>
 
 ## Sublime Text 3
 ### Intallera plugins
