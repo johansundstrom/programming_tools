@@ -1,7 +1,7 @@
 # Programmeringsverktyg
 Jämförelse och test av programmeringsverktyg
 
-<img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png" width="50px">
+<img src="http://c758482.r82.cf2.rackcdn.com/sublime_text_icon_2181.png" width="50px">
 
 ### Sublime Text
 
