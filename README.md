@@ -9,7 +9,7 @@ Jämförelse och test av programmeringsverktyg
 
 ### Visual Code
 
-<img src="https://cdn-business.discourse.org/uploads/github_atom/490/d8548f4ce56f1599.png" width="50px">
+<img src="https://discourse-cdn-sjc1.com/business/uploads/github_atom/490/d8548f4ce56f1599.png" width="50px">
 
 ### Atom
 
