@@ -17,13 +17,15 @@ Jämförelse och test av programmeringsverktyg
 * Atom och Visual Code är skrivna i JavaScript, Sublime Text i Python
 * Samtliga är _cross-platform_
 * Samtliga betraktas som _light weight_
-* Atom och Visual Code är gratis, utom Sublime Text som är proprietär)
+* Atom och Visual Code är gratis, Sublime Text kostar men kan användas gratis)
 * Samtliga har snabbmeny via CTRL-Shift-P
 * Samtliga kan utökas med teman och plugins
+
 ## Nedladdning
 * <a href="https://www.sublimetext.com/3">https://www.sublimetext.com/3</a>
 * <a href="https://code.visualstudio.com">https://code.visualstudio.com</a>
 * <a href="https://atom.io/">https://atom.io</a>
+
 ## Sublime Text 3
 ### Intallera plugins
 * Preferences > Packet control > Install package > Emmet
