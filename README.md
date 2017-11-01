@@ -56,4 +56,7 @@ Jämförelse och test av programmeringsverktyg
 
 ## Brackets
 ### Installera plugins
-* 
+* File > Tilläggshanteraren > Install > Emmet (Emmet)
+* File > Tilläggshanteraren > Install > HTTP Server for Brackets (inbyggd webbserver)
+### Ändra tema
+* File > Tilläggshanteraren > Theme > x
