@@ -6,4 +6,4 @@ Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och sm
 
 * Sök upp ```Starter template``` på https://getbootstrap.com 
 * Kopiera den till en tom fil i VS Code som heter ```index.html```
-* Sök upp 
+* Sök upp ```navbar```
