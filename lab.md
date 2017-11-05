@@ -1,6 +1,6 @@
 # Skapa ett gränssnitt
 
-Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och smartphone. Tekniken bakom _Responsiv Design_ från Bootstrap används.
+Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och smartphone. Tekniken bakom _Responsiv Design_ från Bootstrap används och är enklast möjliga.
 
 ## Installera FTP-klienten i VS Code
 * Välj extensions
@@ -12,11 +12,11 @@ Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och sm
 ```javascript
 [
    {
-	"username": "<givet användarnamn>",
-	"password": "<aktuellt lösenord>",
-	"path": "/<givet användarnamn>",
-	"autosave": true,
-	"confirm": true
+      "username": "<givet användarnamn>",
+      "password": "<aktuellt lösenord>",
+      "path": "/<givet användarnamn>",
+      "autosave": true,
+      "confirm": true
    }
 ]
 ```
@@ -48,3 +48,5 @@ Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och sm
 * Kopiera in ```Starter template``` från http://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template
 * Kopiera ovanstående beskriven HTML-kod till ```index.html```
 * Kopiera in ```navbar``` från https://getbootstrap.com/docs/4.0/components/navbar/#nav
+* Spara filen ```index.html```
+* I webbläsaren besök - http://be9.asuscomm.com/user/<givet användarnamn>
