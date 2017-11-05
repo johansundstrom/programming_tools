@@ -1,4 +1,4 @@
-<# Skapa ett gränssnitt
+# Skapa ett gränssnitt
 
 Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och smartphone. Tekniken bakom _Responsiv Design_ från Bootstrap används.
 
@@ -25,14 +25,14 @@ Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och sm
 ## Arbeta mot FTP-server
 * Följande kommandon tillåts i FTP-Simple...
 
-1 config - Set the ftp connection information
-2 create directory - Create a directory on ftp server
-1 open - Open the file directly from ftp server and when you save upload it to the ftp server
-1 save - File or directory upload to ftp server.(Available from the context menu)
-1 download - Download the file or directory from ftp server to the workspace
-1 delete - Delete the file or directory directly from ftp server
-1 diff - Compare a local file server file
-1 Remote directory open to workspace - (Beta version) Open the direcotry directly on workspace from ftp server. Similar to remote  synchronization. (Caution : Remote delete a files is only possible using 'Delete' in the context menu)
+1. config - Set the ftp connection information
+2. create directory - Create a directory on ftp server
+1. open - Open the file directly from ftp server and when you save upload it to the ftp server
+1. save - File or directory upload to ftp server.(Available from the context menu)
+1. download - Download the file or directory from ftp server to the workspace
+1. delete - Delete the file or directory directly from ftp server
+1. diff - Compare a local file server file
+1. Remote directory open to workspace - (Beta version) Open the direcotry directly on workspace from ftp server. Similar to remote  synchronization. (Caution : Remote delete a files is only possible using 'Delete' in the context menu)
 
 * Öppna _Command Palette_ med Shift + CTRL + P (eller F1)
 * 
