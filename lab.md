@@ -12,11 +12,15 @@ Detta gränssnitt syftar till att vara tillgängligt för desktop, platta och sm
 ```javascript
 [
    {
+   	"name": "B9",
+		"host": "be9.asuscomm.com",
+		"port": 21,
+		"type": "ftp",
       "username": "<givet användarnamn>",
       "password": "<aktuellt lösenord>",
       "path": "/<givet användarnamn>",
       "autosave": true,
-      "confirm": true
+      "confirm": false
    }
 ]
 ```
